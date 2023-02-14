@@ -5,8 +5,8 @@
       "default": true
     }
   ],
-  "name": "Confluent-MoviMsk",
+  "name": "Trailcart test",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "55.0"
+  "sourceApiVersion": "56.0"
 }
